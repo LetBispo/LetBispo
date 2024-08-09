@@ -1,5 +1,5 @@
 # Bem Vindos ao meu perfil
-  Meu nome è letícia Bispo
+  Meu nome é letícia Bispo
   Estou Estudando no [Alura](https://www.alura.com.br)
 
 # você pode entra em contato comigo 
